@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+html,body{
+    background-color:darkseagreen;
+
+}
+
+.banner{
+    background-image: url(../img/saiki.jpg);
+    color: darkgreen;
+    height: 800px;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.img{
+    background-image: url(../img/reativado.jpg);
+    height: 50px;
+}
+h1{
+    color:crimson;
+    text-align: center;
+}
+h2{
+    color: crimson;
+    text-align: center;
+}
+h3{
+    color: crimson;
+    text-align: center;
+}
+section div{
+    border: 1px solid darkgreen;
+    text-align: center;
+    padding: 15px 20px 5px 8px;
+    margin: 10px;
+}
+p{
+    text-align: center;
+}
+li{
+    text-align: center;
+}
+.borda{
+    border: 1px solid darkgreen;
+    
+}
